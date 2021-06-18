@@ -1,0 +1,33 @@
+.header{
+	background: #082c2c;
+	color:#f5f7f7;
+}
+.icon{
+	color: #04a1a1;
+}
+.ad{
+	/*width: ;*/
+	/*height: ;*/
+	border:1px solid lightgrey;
+}
+.ads{
+	margin-top: 2%;
+}
+.features{
+	margin-top: 2%;
+	background: #082c2c;
+	height: 450px;
+}
+.ftrs{
+	padding: 20px;
+}
+.ftrs1{
+	border:2px solid #04a1a1; 
+	width: 160px; 
+	margin-bottom: 10%;
+}
+.footer{
+	background: #082c2c;
+	/*height: 100px;*/
+	color: white;
+}
